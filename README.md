@@ -1,7 +1,10 @@
 # pADamID_diff_domain_calling
 Calling domains with significantly different pADamID signal
 
-## The sign of a pADamID differential signal in successive genomic bins can be seen a coin toss
+## Model
+
+The sign of a pADamID differential signal in successive genomic bins can be seen a coin toss.
+
 The likelihood of sampling $k$ heads in $n$ coin toss with a coin having probability $p$ to hit a head and $(1-p)$ to hit a tail follows a binomial distribution:
 $$P(k,n|p) = {n \choose k} p^k (1-p)^{n-k}$$
 
