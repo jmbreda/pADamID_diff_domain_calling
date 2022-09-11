@@ -35,6 +35,8 @@ A region significantly positive/negative shows a strong evidence $p\neq 0.5$
 
 For a region to be significatly positive/negative, I ask that at least 99.9 \% of the posterior distribution is above/below $p=0.5$.
 
+
+
 $$\text{Positive region:} \int_{p=0.5}^1 P(p\mid k,n) > 0.999 ~~~~~~ \text{Negative region:} \int_{p=0}^{0.5} P(p\mid k,n) > 0.999$$
 
-[image](Fig/beta_catoon.pdf)
+![pADamID domains](/Fig/beta_cartoon.pdf?raw=true "Beta distribution")
